@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteRule ^pagar(.*)$ index.php?pagina=receber [L]
+RewriteRule ^processos(.*)$ index.php?pagina=processos [L]
+RewriteRule ^dados(.*)$ index.php?pagina=dados [L]
+

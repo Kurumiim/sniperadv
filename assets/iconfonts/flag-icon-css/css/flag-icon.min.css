@@ -1,0 +1,1488 @@
+/*------ Icons List ------*/
+
+.browser {
+    width: 1.25rem;
+    height: 1.25rem;
+    display: inline-block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+}
+.flag {
+    width: 1.6rem;
+    height: 1.2rem;
+    display: block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+
+.flag-ad {
+    background-image: url("../../../assets/img/flags/ad.svg");
+}
+
+.flag-ae {
+    background-image: url("./../../assets/img/flags/ae.svg");
+}
+
+.flag-af {
+    background-image: url("./../../assets/img/flags/af.svg");
+}
+
+.flag-ag {
+    background-image: url("./../../assets/img/flags/ag.svg");
+}
+
+.flag-ai {
+    background-image: url("./../../assets/img/flags/ai.svg");
+}
+
+.flag-al {
+    background-image: url("./../../assets/img/flags/al.svg");
+}
+
+.flag-am {
+    background-image: url("./../../assets/img/flags/am.svg");
+}
+
+.flag-ao {
+    background-image: url("./../../assets/img/flags/ao.svg");
+}
+
+.flag-aq {
+    background-image: url("./../../assets/img/flags/aq.svg");
+}
+
+.flag-ar {
+    background-image: url("./../../assets/img/flags/ar.svg");
+}
+
+.flag-as {
+    background-image: url("./../../assets/img/flags/as.svg");
+}
+
+.flag-at {
+    background-image: url("./../../assets/img/flags/at.svg");
+}
+
+.flag-au {
+    background-image: url("./../../assets/img/flags/au.svg");
+}
+
+.flag-aw {
+    background-image: url("./../../assets/img/flags/aw.svg");
+}
+
+.flag-ax {
+    background-image: url("./../../assets/img/flags/ax.svg");
+}
+
+.flag-az {
+    background-image: url("./../../assets/img/flags/az.svg");
+}
+
+.flag-ba {
+    background-image: url("./../../assets/img/flags/ba.svg");
+}
+
+.flag-bb {
+    background-image: url("./../../assets/img/flags/bb.svg");
+}
+
+.flag-bd {
+    background-image: url("./../../assets/img/flags/bd.svg");
+}
+
+.flag-be {
+    background-image: url("./../../assets/img/flags/be.svg");
+}
+
+.flag-bf {
+    background-image: url("./../../assets/img/flags/bf.svg");
+}
+
+.flag-bg {
+    background-image: url("./../../assets/img/flags/bg.svg");
+}
+
+.flag-bh {
+    background-image: url("./../../assets/img/flags/bh.svg");
+}
+
+.flag-bi {
+    background-image: url("./../../assets/img/flags/bi.svg");
+}
+
+.flag-bj {
+    background-image: url("./../../assets/img/flags/bj.svg");
+}
+
+.flag-bl {
+    background-image: url("./../../assets/img/flags/bl.svg");
+}
+
+.flag-bm {
+    background-image: url("./../../assets/img/flags/bm.svg");
+}
+
+.flag-bn {
+    background-image: url("./../../assets/img/flags/bn.svg");
+}
+
+.flag-bo {
+    background-image: url("./../../assets/img/flags/bo.svg");
+}
+
+.flag-bq {
+    background-image: url("./../../assets/img/flags/bq.svg");
+}
+
+.flag-br {
+    background-image: url("./../../assets/img/flags/br.svg");
+}
+
+.flag-bs {
+    background-image: url("./../../assets/img/flags/bs.svg");
+}
+
+.flag-bt {
+    background-image: url("./../../assets/img/flags/bt.svg");
+}
+
+.flag-bv {
+    background-image: url("./../../assets/img/flags/bv.svg");
+}
+
+.flag-bw {
+    background-image: url("./../../assets/img/flags/bw.svg");
+}
+
+.flag-by {
+    background-image: url("./../../assets/img/flags/by.svg");
+}
+
+.flag-bz {
+    background-image: url("./../../assets/img/flags/bz.svg");
+}
+
+.flag-ca {
+    background-image: url("./../../assets/img/flags/ca.svg");
+}
+
+.flag-cc {
+    background-image: url("./../../assets/img/flags/cc.svg");
+}
+
+.flag-cd {
+    background-image: url("./../../assets/img/flags/cd.svg");
+}
+
+.flag-cf {
+    background-image: url("./../../assets/img/flags/cf.svg");
+}
+
+.flag-cg {
+    background-image: url("./../../assets/img/flags/cg.svg");
+}
+
+.flag-ch {
+    background-image: url("./../../assets/img/flags/ch.svg");
+}
+
+.flag-ci {
+    background-image: url("./../../assets/img/flags/ci.svg");
+}
+
+.flag-ck {
+    background-image: url("./../../assets/img/flags/ck.svg");
+}
+
+.flag-cl {
+    background-image: url("./../../assets/img/flags/cl.svg");
+}
+
+.flag-cm {
+    background-image: url("./../../assets/img/flags/cm.svg");
+}
+
+.flag-cn {
+    background-image: url("./../../assets/img/flags/cn.svg");
+}
+
+.flag-co {
+    background-image: url("./../../assets/img/flags/co.svg");
+}
+
+.flag-cr {
+    background-image: url("./../../assets/img/flags/cr.svg");
+}
+
+.flag-cu {
+    background-image: url("./../../assets/img/flags/cu.svg");
+}
+
+.flag-cv {
+    background-image: url("./../../assets/img/flags/cv.svg");
+}
+
+.flag-cw {
+    background-image: url("./../../assets/img/flags/cw.svg");
+}
+
+.flag-cx {
+    background-image: url("./../../assets/img/flags/cx.svg");
+}
+
+.flag-cy {
+    background-image: url("./../../assets/img/flags/cy.svg");
+}
+
+.flag-cz {
+    background-image: url("./../../assets/img/flags/cz.svg");
+}
+
+.flag-de {
+    background-image: url("./../../assets/img/flags/de.svg");
+}
+
+.flag-dj {
+    background-image: url("./../../assets/img/flags/dj.svg");
+}
+
+.flag-dk {
+    background-image: url("./../../assets/img/flags/dk.svg");
+}
+
+.flag-dm {
+    background-image: url("./../../assets/img/flags/dm.svg");
+}
+
+.flag-do {
+    background-image: url("./../../assets/img/flags/do.svg");
+}
+
+.flag-dz {
+    background-image: url("./../../assets/img/flags/dz.svg");
+}
+
+.flag-ec {
+    background-image: url("./../../assets/img/flags/ec.svg");
+}
+
+.flag-ee {
+    background-image: url("./../../assets/img/flags/ee.svg");
+}
+
+.flag-eg {
+    background-image: url("./../../assets/img/flags/eg.svg");
+}
+
+.flag-eh {
+    background-image: url("./../../assets/img/flags/eh.svg");
+}
+
+.flag-er {
+    background-image: url("./../../assets/img/flags/er.svg");
+}
+
+.flag-es {
+    background-image: url("./../../assets/img/flags/es.svg");
+}
+
+.flag-et {
+    background-image: url("./../../assets/img/flags/et.svg");
+}
+
+.flag-eu {
+    background-image: url("./../../assets/img/flags/eu.svg");
+}
+
+.flag-fi {
+    background-image: url("./../../assets/img/flags/fi.svg");
+}
+
+.flag-fj {
+    background-image: url("./../../assets/img/flags/fj.svg");
+}
+
+.flag-fk {
+    background-image: url("./../../assets/img/flags/fk.svg");
+}
+
+.flag-fm {
+    background-image: url("./../../assets/img/flags/fm.svg");
+}
+
+.flag-fo {
+    background-image: url("./../../assets/img/flags/fo.svg");
+}
+
+.flag-fr {
+    background-image: url("./../../assets/img/flags/fr.svg");
+}
+
+.flag-ga {
+    background-image: url("./../../assets/img/flags/ga.svg");
+}
+
+.flag-gb-eng {
+    background-image: url("./../../assets/img/flags/gb-eng.svg");
+}
+
+.flag-gb-nir {
+    background-image: url("./../../assets/img/flags/gb-nir.svg");
+}
+
+.flag-gb-sct {
+    background-image: url("./../../assets/img/flags/gb-sct.svg");
+}
+
+.flag-gb-wls {
+    background-image: url("./../../assets/img/flags/gb-wls.svg");
+}
+
+.flag-gb {
+    background-image: url("./../../assets/img/flags/gb.svg");
+}
+
+.flag-gd {
+    background-image: url("./../../assets/img/flags/gd.svg");
+}
+
+.flag-ge {
+    background-image: url("./../../assets/img/flags/ge.svg");
+}
+
+.flag-gf {
+    background-image: url("./../../assets/img/flags/gf.svg");
+}
+
+.flag-gg {
+    background-image: url("./../../assets/img/flags/gg.svg");
+}
+
+.flag-gh {
+    background-image: url("./../../assets/img/flags/gh.svg");
+}
+
+.flag-gi {
+    background-image: url("./../../assets/img/flags/gi.svg");
+}
+
+.flag-gl {
+    background-image: url("./../../assets/img/flags/gl.svg");
+}
+
+.flag-gm {
+    background-image: url("./../../assets/img/flags/gm.svg");
+}
+
+.flag-gn {
+    background-image: url("./../../assets/img/flags/gn.svg");
+}
+
+.flag-gp {
+    background-image: url("./../../assets/img/flags/gp.svg");
+}
+
+.flag-gq {
+    background-image: url("./../../assets/img/flags/gq.svg");
+}
+
+.flag-gr {
+    background-image: url("./../../assets/img/flags/gr.svg");
+}
+
+.flag-gs {
+    background-image: url("./../../assets/img/flags/gs.svg");
+}
+
+.flag-gt {
+    background-image: url("./../../assets/img/flags/gt.svg");
+}
+
+.flag-gu {
+    background-image: url("./../../assets/img/flags/gu.svg");
+}
+
+.flag-gw {
+    background-image: url("./../../assets/img/flags/gw.svg");
+}
+
+.flag-gy {
+    background-image: url("./../../assets/img/flags/gy.svg");
+}
+
+.flag-hk {
+    background-image: url("./../../assets/img/flags/hk.svg");
+}
+
+.flag-hm {
+    background-image: url("./../../assets/img/flags/hm.svg");
+}
+
+.flag-hn {
+    background-image: url("./../../assets/img/flags/hn.svg");
+}
+
+.flag-hr {
+    background-image: url("./../../assets/img/flags/hr.svg");
+}
+
+.flag-ht {
+    background-image: url("./../../assets/img/flags/ht.svg");
+}
+
+.flag-hu {
+    background-image: url("./../../assets/img/flags/hu.svg");
+}
+
+.flag-id {
+    background-image: url("./../../assets/img/flags/id.svg");
+}
+
+.flag-ie {
+    background-image: url("./../../assets/img/flags/ie.svg");
+}
+
+.flag-il {
+    background-image: url("./../../assets/img/flags/il.svg");
+}
+
+.flag-im {
+    background-image: url("./../../assets/img/flags/im.svg");
+}
+
+.flag-in {
+    background-image: url("./../../assets/img/flags/in.svg");
+}
+
+.flag-io {
+    background-image: url("./../../assets/img/flags/io.svg");
+}
+
+.flag-iq {
+    background-image: url("./../../assets/img/flags/iq.svg");
+}
+
+.flag-ir {
+    background-image: url("./../../assets/img/flags/ir.svg");
+}
+
+.flag-is {
+    background-image: url("./../../assets/img/flags/is.svg");
+}
+
+.flag-it {
+    background-image: url("./../../assets/img/flags/it.svg");
+}
+
+.flag-je {
+    background-image: url("./../../assets/img/flags/je.svg");
+}
+
+.flag-jm {
+    background-image: url("./../../assets/img/flags/jm.svg");
+}
+
+.flag-jo {
+    background-image: url("./../../assets/img/flags/jo.svg");
+}
+
+.flag-jp {
+    background-image: url("./../../assets/img/flags/jp.svg");
+}
+
+.flag-ke {
+    background-image: url("./../../assets/img/flags/ke.svg");
+}
+
+.flag-kg {
+    background-image: url("./../../assets/img/flags/kg.svg");
+}
+
+.flag-kh {
+    background-image: url("./../../assets/img/flags/kh.svg");
+}
+
+.flag-ki {
+    background-image: url("./../../assets/img/flags/ki.svg");
+}
+
+.flag-km {
+    background-image: url("./../../assets/img/flags/km.svg");
+}
+
+.flag-kn {
+    background-image: url("./../../assets/img/flags/kn.svg");
+}
+
+.flag-kp {
+    background-image: url("./../../assets/img/flags/kp.svg");
+}
+
+.flag-kr {
+    background-image: url("./../../assets/img/flags/kr.svg");
+}
+
+.flag-kw {
+    background-image: url("./../../assets/img/flags/kw.svg");
+}
+
+.flag-ky {
+    background-image: url("./../../assets/img/flags/ky.svg");
+}
+
+.flag-kz {
+    background-image: url("./../../assets/img/flags/kz.svg");
+}
+
+.flag-la {
+    background-image: url("./../../assets/img/flags/la.svg");
+}
+
+.flag-lb {
+    background-image: url("./../../assets/img/flags/lb.svg");
+}
+
+.flag-lc {
+    background-image: url("./../../assets/img/flags/lc.svg");
+}
+
+.flag-li {
+    background-image: url("./../../assets/img/flags/li.svg");
+}
+
+.flag-lk {
+    background-image: url("./../../assets/img/flags/lk.svg");
+}
+
+.flag-lr {
+    background-image: url("./../../assets/img/flags/lr.svg");
+}
+
+.flag-ls {
+    background-image: url("./../../assets/img/flags/ls.svg");
+}
+
+.flag-lt {
+    background-image: url("./../../assets/img/flags/lt.svg");
+}
+
+.flag-lu {
+    background-image: url("./../../assets/img/flags/lu.svg");
+}
+
+.flag-lv {
+    background-image: url("./../../assets/img/flags/lv.svg");
+}
+
+.flag-ly {
+    background-image: url("./../../assets/img/flags/ly.svg");
+}
+
+.flag-ma {
+    background-image: url("./../../assets/img/flags/ma.svg");
+}
+
+.flag-mc {
+    background-image: url("./../../assets/img/flags/mc.svg");
+}
+
+.flag-md {
+    background-image: url("./../../assets/img/flags/md.svg");
+}
+
+.flag-me {
+    background-image: url("./../../assets/img/flags/me.svg");
+}
+
+.flag-mf {
+    background-image: url("./../../assets/img/flags/mf.svg");
+}
+
+.flag-mg {
+    background-image: url("./../../assets/img/flags/mg.svg");
+}
+
+.flag-mh {
+    background-image: url("./../../assets/img/flags/mh.svg");
+}
+
+.flag-mk {
+    background-image: url("./../../assets/img/flags/mk.svg");
+}
+
+.flag-ml {
+    background-image: url("./../../assets/img/flags/ml.svg");
+}
+
+.flag-mm {
+    background-image: url("./../../assets/img/flags/mm.svg");
+}
+
+.flag-mn {
+    background-image: url("./../../assets/img/flags/mn.svg");
+}
+
+.flag-mo {
+    background-image: url("./../../assets/img/flags/mo.svg");
+}
+
+.flag-mp {
+    background-image: url("./../../assets/img/flags/mp.svg");
+}
+
+.flag-mq {
+    background-image: url("./../../assets/img/flags/mq.svg");
+}
+
+.flag-mr {
+    background-image: url("./../../assets/img/flags/mr.svg");
+}
+
+.flag-ms {
+    background-image: url("./../../assets/img/flags/ms.svg");
+}
+
+.flag-mt {
+    background-image: url("./../../assets/img/flags/mt.svg");
+}
+
+.flag-mu {
+    background-image: url("./../../assets/img/flags/mu.svg");
+}
+
+.flag-mv {
+    background-image: url("./../../assets/img/flags/mv.svg");
+}
+
+.flag-mw {
+    background-image: url("./../../assets/img/flags/mw.svg");
+}
+
+.flag-mx {
+    background-image: url("./../../assets/img/flags/mx.svg");
+}
+
+.flag-my {
+    background-image: url("./../../assets/img/flags/my.svg");
+}
+
+.flag-mz {
+    background-image: url("./../../assets/img/flags/mz.svg");
+}
+
+.flag-na {
+    background-image: url("./../../assets/img/flags/na.svg");
+}
+
+.flag-nc {
+    background-image: url("./../../assets/img/flags/nc.svg");
+}
+
+.flag-ne {
+    background-image: url("./../../assets/img/flags/ne.svg");
+}
+
+.flag-nf {
+    background-image: url("./../../assets/img/flags/nf.svg");
+}
+
+.flag-ng {
+    background-image: url("./../../assets/img/flags/ng.svg");
+}
+
+.flag-ni {
+    background-image: url("./../../assets/img/flags/ni.svg");
+}
+
+.flag-nl {
+    background-image: url("./../../assets/img/flags/nl.svg");
+}
+
+.flag-no {
+    background-image: url("./../../assets/img/flags/no.svg");
+}
+
+.flag-np {
+    background-image: url("./../../assets/img/flags/np.svg");
+}
+
+.flag-nr {
+    background-image: url("./../../assets/img/flags/nr.svg");
+}
+
+.flag-nu {
+    background-image: url("./../../assets/img/flags/nu.svg");
+}
+
+.flag-nz {
+    background-image: url("./../../assets/img/flags/nz.svg");
+}
+
+.flag-om {
+    background-image: url("./../../assets/img/flags/om.svg");
+}
+
+.flag-pa {
+    background-image: url("./../../assets/img/flags/pa.svg");
+}
+
+.flag-pe {
+    background-image: url("./../../assets/img/flags/pe.svg");
+}
+
+.flag-pf {
+    background-image: url("./../../assets/img/flags/pf.svg");
+}
+
+.flag-pg {
+    background-image: url("./../../assets/img/flags/pg.svg");
+}
+
+.flag-ph {
+    background-image: url("./../../assets/img/flags/ph.svg");
+}
+
+.flag-pk {
+    background-image: url("./../../assets/img/flags/pk.svg");
+}
+
+.flag-pl {
+    background-image: url("./../../assets/img/flags/pl.svg");
+}
+
+.flag-pm {
+    background-image: url("./../../assets/img/flags/pm.svg");
+}
+
+.flag-pn {
+    background-image: url("./../../assets/img/flags/pn.svg");
+}
+
+.flag-pr {
+    background-image: url("./../../assets/img/flags/pr.svg");
+}
+
+.flag-ps {
+    background-image: url("./../../assets/img/flags/ps.svg");
+}
+
+.flag-pt {
+    background-image: url("./../../assets/img/flags/pt.svg");
+}
+
+.flag-pw {
+    background-image: url("./../../assets/img/flags/pw.svg");
+}
+
+.flag-py {
+    background-image: url("./../../assets/img/flags/py.svg");
+}
+
+.flag-qa {
+    background-image: url("./../../assets/img/flags/qa.svg");
+}
+
+.flag-re {
+    background-image: url("./../../assets/img/flags/re.svg");
+}
+
+.flag-ro {
+    background-image: url("./../../assets/img/flags/ro.svg");
+}
+
+.flag-rs {
+    background-image: url("./../../assets/img/flags/rs.svg");
+}
+
+.flag-ru {
+    background-image: url("./../../assets/img/flags/ru.svg");
+}
+
+.flag-rw {
+    background-image: url("./../../assets/img/flags/rw.svg");
+}
+
+.flag-sa {
+    background-image: url("./../../assets/img/flags/sa.svg");
+}
+
+.flag-sb {
+    background-image: url("./../../assets/img/flags/sb.svg");
+}
+
+.flag-sc {
+    background-image: url("./../../assets/img/flags/sc.svg");
+}
+
+.flag-sd {
+    background-image: url("./../../assets/img/flags/sd.svg");
+}
+
+.flag-se {
+    background-image: url("./../../assets/img/flags/se.svg");
+}
+
+.flag-sg {
+    background-image: url("./../../assets/img/flags/sg.svg");
+}
+
+.flag-sh {
+    background-image: url("./../../assets/img/flags/sh.svg");
+}
+
+.flag-si {
+    background-image: url("./../../assets/img/flags/si.svg");
+}
+
+.flag-sj {
+    background-image: url("./../../assets/img/flags/sj.svg");
+}
+
+.flag-sk {
+    background-image: url("./../../assets/img/flags/sk.svg");
+}
+
+.flag-sl {
+    background-image: url("./../../assets/img/flags/sl.svg");
+}
+
+.flag-sm {
+    background-image: url("./../../assets/img/flags/sm.svg");
+}
+
+.flag-sn {
+    background-image: url("./../../assets/img/flags/sn.svg");
+}
+
+.flag-so {
+    background-image: url("./../../assets/img/flags/so.svg");
+}
+
+.flag-sr {
+    background-image: url("./../../assets/img/flags/sr.svg");
+}
+
+.flag-ss {
+    background-image: url("./../../assets/img/flags/ss.svg");
+}
+
+.flag-st {
+    background-image: url("./../../assets/img/flags/st.svg");
+}
+
+.flag-sv {
+    background-image: url("./../../assets/img/flags/sv.svg");
+}
+
+.flag-sx {
+    background-image: url("./../../assets/img/flags/sx.svg");
+}
+
+.flag-sy {
+    background-image: url("./../../assets/img/flags/sy.svg");
+}
+
+.flag-sz {
+    background-image: url("./../../assets/img/flags/sz.svg");
+}
+
+.flag-tc {
+    background-image: url("./../../assets/img/flags/tc.svg");
+}
+
+.flag-td {
+    background-image: url("./../../assets/img/flags/td.svg");
+}
+
+.flag-tf {
+    background-image: url("./../../assets/img/flags/tf.svg");
+}
+
+.flag-tg {
+    background-image: url("./../../assets/img/flags/tg.svg");
+}
+
+.flag-th {
+    background-image: url("./../../assets/img/flags/th.svg");
+}
+
+.flag-tj {
+    background-image: url("./../../assets/img/flags/tj.svg");
+}
+
+.flag-tk {
+    background-image: url("./../../assets/img/flags/tk.svg");
+}
+
+.flag-tl {
+    background-image: url("./../../assets/img/flags/tl.svg");
+}
+
+.flag-tm {
+    background-image: url("./../../assets/img/flags/tm.svg");
+}
+
+.flag-tn {
+    background-image: url("./../../assets/img/flags/tn.svg");
+}
+
+.flag-to {
+    background-image: url("./../../assets/img/flags/to.svg");
+}
+
+.flag-tr {
+    background-image: url("./../../assets/img/flags/tr.svg");
+}
+
+.flag-tt {
+    background-image: url("./../../assets/img/flags/tt.svg");
+}
+
+.flag-tv {
+    background-image: url("./../../assets/img/flags/tv.svg");
+}
+
+.flag-tw {
+    background-image: url("./../../assets/img/flags/tw.svg");
+}
+
+.flag-tz {
+    background-image: url("./../../assets/img/flags/tz.svg");
+}
+
+.flag-ua {
+    background-image: url("./../../assets/img/flags/ua.svg");
+}
+
+.flag-ug {
+    background-image: url("./../../assets/img/flags/ug.svg");
+}
+
+.flag-um {
+    background-image: url("./../../assets/img/flags/um.svg");
+}
+
+.flag-un {
+    background-image: url("./../../assets/img/flags/un.svg");
+}
+
+.flag-us {
+    background-image: url("./../../assets/img/flags/us.svg");
+}
+
+.flag-uy {
+    background-image: url("./../../assets/img/flags/uy.svg");
+}
+
+.flag-uz {
+    background-image: url("./../../assets/img/flags/uz.svg");
+}
+
+.flag-va {
+    background-image: url("./../../assets/img/flags/va.svg");
+}
+
+.flag-vc {
+    background-image: url("./../../assets/img/flags/vc.svg");
+}
+
+.flag-ve {
+    background-image: url("./../../assets/img/flags/ve.svg");
+}
+
+.flag-vg {
+    background-image: url("./../../assets/img/flags/vg.svg");
+}
+
+.flag-vi {
+    background-image: url("./../../assets/img/flags/vi.svg");
+}
+
+.flag-vn {
+    background-image: url("./../../assets/img/flags/vn.svg");
+}
+
+.flag-vu {
+    background-image: url("./../../assets/img/flags/vu.svg");
+}
+
+.flag-wf {
+    background-image: url("./../../assets/img/flags/wf.svg");
+}
+
+.flag-ws {
+    background-image: url("./../../assets/img/flags/ws.svg");
+}
+
+.flag-ye {
+    background-image: url("./../../assets/img/flags/ye.svg");
+}
+
+.flag-yt {
+    background-image: url("./../../assets/img/flags/yt.svg");
+}
+
+.flag-za {
+    background-image: url("./../../assets/img/flags/za.svg");
+}
+
+.flag-zm {
+    background-image: url("./../../assets/img/flags/zm.svg");
+}
+
+.flag-zw {
+    background-image: url("./../../assets/img/flags/zw.svg");
+}
+
+.payment {
+    width: 1.8rem;
+    height: 1.1rem;
+    display: inline-block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+
+.payment-2checkout-dark {
+    background-image: url("./../../assets/img/payments/2checkout-dark.svg");
+}
+
+.payment-2checkout {
+    background-image: url("./../../assets/img/payments/2checkout.svg");
+}
+
+.payment-alipay-dark {
+    background-image: url("./../../assets/img/payments/alipay-dark.svg");
+}
+
+.payment-alipay {
+    background-image: url("./../../assets/img/payments/alipay.svg");
+}
+
+.payment-amazon-dark {
+    background-image: url("./../../assets/img/payments/amazon-dark.svg");
+}
+
+.payment-amazon {
+    background-image: url("./../../assets/img/payments/amazon.svg");
+}
+
+.payment-americanexpress-dark {
+    background-image: url("./../../assets/img/payments/americanexpress-dark.svg");
+}
+
+.payment-americanexpress {
+    background-image: url("./../../assets/img/payments/americanexpress.svg");
+}
+
+.payment-applepay-dark {
+    background-image: url("./../../assets/img/payments/applepay-dark.svg");
+}
+
+.payment-applepay {
+    background-image: url("./../../assets/img/payments/applepay.svg");
+}
+
+.payment-bancontact-dark {
+    background-image: url("./../../assets/img/payments/bancontact-dark.svg");
+}
+
+.payment-bancontact {
+    background-image: url("./../../assets/img/payments/bancontact.svg");
+}
+
+.payment-bitcoin-dark {
+    background-image: url("./../../assets/img/payments/bitcoin-dark.svg");
+}
+
+.payment-bitcoin {
+    background-image: url("./../../assets/img/payments/bitcoin.svg");
+}
+
+.payment-bitpay-dark {
+    background-image: url("./../../assets/img/payments/bitpay-dark.svg");
+}
+
+.payment-bitpay {
+    background-image: url("./../../assets/img/payments/bitpay.svg");
+}
+
+.payment-cirrus-dark {
+    background-image: url("./../../assets/img/payments/cirrus-dark.svg");
+}
+
+.payment-cirrus {
+    background-image: url("./../../assets/img/payments/cirrus.svg");
+}
+
+.payment-clickandbuy-dark {
+    background-image: url("./../../assets/img/payments/clickandbuy-dark.svg");
+}
+
+.payment-clickandbuy {
+    background-image: url("./../../assets/img/payments/clickandbuy.svg");
+}
+
+.payment-coinkite-dark {
+    background-image: url("./../../assets/img/payments/coinkite-dark.svg");
+}
+
+.payment-coinkite {
+    background-image: url("./../../assets/img/payments/coinkite.svg");
+}
+
+.payment-dinersclub-dark {
+    background-image: url("./../../assets/img/payments/dinersclub-dark.svg");
+}
+
+.payment-dinersclub {
+    background-image: url("./../../assets/img/payments/dinersclub.svg");
+}
+
+.payment-directdebit-dark {
+    background-image: url("./../../assets/img/payments/directdebit-dark.svg");
+}
+
+.payment-directdebit {
+    background-image: url("./../../assets/img/payments/directdebit.svg");
+}
+
+.payment-discover-dark {
+    background-image: url("./../../assets/img/payments/discover-dark.svg");
+}
+
+.payment-discover {
+    background-image: url("./../../assets/img/payments/discover.svg");
+}
+
+.payment-dwolla-dark {
+    background-image: url("./../../assets/img/payments/dwolla-dark.svg");
+}
+
+.payment-dwolla {
+    background-image: url("./../../assets/img/payments/dwolla.svg");
+}
+
+.payment-ebay-dark {
+    background-image: url("./../../assets/img/payments/ebay-dark.svg");
+}
+
+.payment-ebay {
+    background-image: url("./../../assets/img/payments/ebay.svg");
+}
+
+.payment-eway-dark {
+    background-image: url("./../../assets/img/payments/eway-dark.svg");
+}
+
+.payment-eway {
+    background-image: url("./../../assets/img/payments/eway.svg");
+}
+
+.payment-giropay-dark {
+    background-image: url("./../../assets/img/payments/giropay-dark.svg");
+}
+
+.payment-giropay {
+    background-image: url("./../../assets/img/payments/giropay.svg");
+}
+
+.payment-googlewallet-dark {
+    background-image: url("./../../assets/img/payments/googlewallet-dark.svg");
+}
+
+.payment-googlewallet {
+    background-image: url("./../../assets/img/payments/googlewallet.svg");
+}
+
+.payment-ingenico-dark {
+    background-image: url("./../../assets/img/payments/ingenico-dark.svg");
+}
+
+.payment-ingenico {
+    background-image: url("./../../assets/img/payments/ingenico.svg");
+}
+
+.payment-jcb-dark {
+    background-image: url("./../../assets/img/payments/jcb-dark.svg");
+}
+
+.payment-jcb {
+    background-image: url("./../../assets/img/payments/jcb.svg");
+}
+
+.payment-klarna-dark {
+    background-image: url("./../../assets/img/payments/klarna-dark.svg");
+}
+
+.payment-klarna {
+    background-image: url("./../../assets/img/payments/klarna.svg");
+}
+
+.payment-laser-dark {
+    background-image: url("./../../assets/img/payments/laser-dark.svg");
+}
+
+.payment-laser {
+    background-image: url("./../../assets/img/payments/laser.svg");
+}
+
+.payment-maestro-dark {
+    background-image: url("./../../assets/img/payments/maestro-dark.svg");
+}
+
+.payment-maestro {
+    background-image: url("./../../assets/img/payments/maestro.svg");
+}
+
+.payment-mastercard-dark {
+    background-image: url("./../../assets/img/payments/mastercard-dark.svg");
+}
+
+.payment-mastercard {
+    background-image: url("./../../assets/img/payments/mastercard.svg");
+}
+
+.payment-monero-dark {
+    background-image: url("./../../assets/img/payments/monero-dark.svg");
+}
+
+.payment-monero {
+    background-image: url("./../../assets/img/payments/monero.svg");
+}
+
+.payment-neteller-dark {
+    background-image: url("./../../assets/img/payments/neteller-dark.svg");
+}
+
+.payment-neteller {
+    background-image: url("./../../assets/img/payments/neteller.svg");
+}
+
+.payment-ogone-dark {
+    background-image: url("./../../assets/img/payments/ogone-dark.svg");
+}
+
+.payment-ogone {
+    background-image: url("./../../assets/img/payments/ogone.svg");
+}
+
+.payment-okpay-dark {
+    background-image: url("./../../assets/img/payments/okpay-dark.svg");
+}
+
+.payment-okpay {
+    background-image: url("./../../assets/img/payments/okpay.svg");
+}
+
+.payment-paybox-dark {
+    background-image: url("./../../assets/img/payments/paybox-dark.svg");
+}
+
+.payment-paybox {
+    background-image: url("./../../assets/img/payments/paybox.svg");
+}
+
+.payment-paymill-dark {
+    background-image: url("./../../assets/img/payments/paymill-dark.svg");
+}
+
+.payment-paymill {
+    background-image: url("./../../assets/img/payments/paymill.svg");
+}
+
+.payment-payone-dark {
+    background-image: url("./../../assets/img/payments/payone-dark.svg");
+}
+
+.payment-payone {
+    background-image: url("./../../assets/img/payments/payone.svg");
+}
+
+.payment-payoneer-dark {
+    background-image: url("./../../assets/img/payments/payoneer-dark.svg");
+}
+
+.payment-payoneer {
+    background-image: url("./../../assets/img/payments/payoneer.svg");
+}
+
+.payment-paypal-dark {
+    background-image: url("./../../assets/img/payments/paypal-dark.svg");
+}
+
+.payment-paypal {
+    background-image: url("./../../assets/img/payments/paypal.svg");
+}
+
+.payment-paysafecard-dark {
+    background-image: url("./../../assets/img/payments/paysafecard-dark.svg");
+}
+
+.payment-paysafecard {
+    background-image: url("./../../assets/img/payments/paysafecard.svg");
+}
+
+.payment-payu-dark {
+    background-image: url("./../../assets/img/payments/payu-dark.svg");
+}
+
+.payment-payu {
+    background-image: url("./../../assets/img/payments/payu.svg");
+}
+
+.payment-payza-dark {
+    background-image: url("./../../assets/img/payments/payza-dark.svg");
+}
+
+.payment-payza {
+    background-image: url("./../../assets/img/payments/payza.svg");
+}
+
+.payment-ripple-dark {
+    background-image: url("./../../assets/img/payments/ripple-dark.svg");
+}
+
+.payment-ripple {
+    background-image: url("./../../assets/img/payments/ripple.svg");
+}
+
+.payment-sage-dark {
+    background-image: url("./../../assets/img/payments/sage-dark.svg");
+}
+
+.payment-sage {
+    background-image: url("./../../assets/img/payments/sage.svg");
+}
+
+.payment-sepa-dark {
+    background-image: url("./../../assets/img/payments/sepa-dark.svg");
+}
+
+.payment-sepa {
+    background-image: url("./../../assets/img/payments/sepa.svg");
+}
+
+.payment-shopify-dark {
+    background-image: url("./../../assets/img/payments/shopify-dark.svg");
+}
+
+.payment-shopify {
+    background-image: url("./../../assets/img/payments/shopify.svg");
+}
+
+.payment-skrill-dark {
+    background-image: url("./../../assets/img/payments/skrill-dark.svg");
+}
+
+.payment-skrill {
+    background-image: url("./../../assets/img/payments/skrill.svg");
+}
+
+.payment-solo-dark {
+    background-image: url("./../../assets/img/payments/solo-dark.svg");
+}
+
+.payment-solo {
+    background-image: url("./../../assets/img/payments/solo.svg");
+}
+
+.payment-square-dark {
+    background-image: url("./../../assets/img/payments/square-dark.svg");
+}
+
+.payment-square {
+    background-image: url("./../../assets/img/payments/square.svg");
+}
+
+.payment-stripe-dark {
+    background-image: url("./../../assets/img/payments/stripe-dark.svg");
+}
+
+.payment-stripe {
+    background-image: url("./../../assets/img/payments/stripe.svg");
+}
+
+.payment-switch-dark {
+    background-image: url("./../../assets/img/payments/switch-dark.svg");
+}
+
+.payment-switch {
+    background-image: url("./../../assets/img/payments/switch.svg");
+}
+
+.payment-ukash-dark {
+    background-image: url("./../../assets/img/payments/ukash-dark.svg");
+}
+
+.payment-ukash {
+    background-image: url("./../../assets/img/payments/ukash.svg");
+}
+
+.payment-unionpay-dark {
+    background-image: url("./../../assets/img/payments/unionpay-dark.svg");
+}
+
+.payment-unionpay {
+    background-image: url("./../../assets/img/payments/unionpay.svg");
+}
+
+.payment-verifone-dark {
+    background-image: url("./../../assets/img/payments/verifone-dark.svg");
+}
+
+.payment-verifone {
+    background-image: url("./../../assets/img/payments/verifone.svg");
+}
+
+.payment-verisign-dark {
+    background-image: url("./../../assets/img/payments/verisign-dark.svg");
+}
+
+.payment-verisign {
+    background-image: url("./../../assets/img/payments/verisign.svg");
+}
+
+.payment-visa-dark {
+    background-image: url("./../../assets/img/payments/visa-dark.svg");
+}
+
+.payment-visa {
+    background-image: url("./../../assets/img/payments/visa.svg");
+}
+
+.payment-webmoney-dark {
+    background-image: url("./../../assets/img/payments/webmoney-dark.svg");
+}
+
+.payment-webmoney {
+    background-image: url("./../../assets/img/payments/webmoney.svg");
+}
+
+.payment-westernunion-dark {
+    background-image: url("./../../assets/img/payments/westernunion-dark.svg");
+}
+
+.payment-westernunion {
+    background-image: url("./../../assets/img/payments/westernunion.svg");
+}
+
+.payment-worldpay-dark {
+    background-image: url("./../../assets/img/payments/worldpay-dark.svg");
+}
+
+.payment-worldpay {
+    background-image: url("./../../assets/img/payments/worldpay.svg");
+}
+
+svg {
+    -ms-touch-action: none;
+    touch-action: none;
+}

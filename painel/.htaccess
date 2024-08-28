@@ -1,0 +1,30 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^usuarios$ index.php?pagina=usuarios [L]
+RewriteRule ^grupo_acessos$ index.php?pagina=grupo_acessos [L]
+RewriteRule ^acessos$ index.php?pagina=acessos [L]
+
+RewriteRule ^index$ index.php [L]
+RewriteRule ^receber$ index.php?pagina=receber [L]
+RewriteRule ^pagar$ index.php?pagina=pagar [L]
+RewriteRule ^formas_pgto$ index.php?pagina=formas_pgto [L]
+RewriteRule ^frequencias$ index.php?pagina=frequencias [L]
+RewriteRule ^funcionarios$ index.php?pagina=funcionarios [L]
+RewriteRule ^fornecedores$ index.php?pagina=fornecedores [L]
+RewriteRule ^cargos$ index.php?pagina=cargos [L]
+RewriteRule ^clientes$ index.php?pagina=clientes [L]
+RewriteRule ^home$ index.php?pagina=home [L]
+RewriteRule ^caixas$ index.php?pagina=caixas [L]
+RewriteRule ^tarefas$ index.php?pagina=tarefas [L]
+RewriteRule ^tipos_servicos$ index.php?pagina=tipos_servicos [L]
+RewriteRule ^abertura_contratos$ index.php?pagina=abertura_contratos [L]
+RewriteRule ^contratos$ index.php?pagina=contratos [L]
+RewriteRule ^rel_contratos$ index.php?pagina=rel_contratos [L]
+RewriteRule ^processos_andamento$ index.php?pagina=processos_andamento [L]
+RewriteRule ^processos$ index.php?pagina=processos [L]
+RewriteRule ^audiencias$ index.php?pagina=audiencias [L]
+
+# Regra para redirecionar o diretório raiz para a página home
+RewriteRule ^$ index.php?pagina=home [L]

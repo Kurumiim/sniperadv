@@ -1,0 +1,167 @@
+html{
+
+  --body-color-calendar:#FFFCFF ;
+
+  --header-color-calendar:#d36c6c;
+
+  --header-button-calendar:#92a1d1;
+
+  --color-weekdays-calendar: #247BA0;
+  
+  --box-shadow-calendar: #CBD4C2;
+
+  --hover-calendar: #e8faed;
+
+  --current-day-calendar:#93adba;
+
+  --event-color-calendar: #58bae4;
+
+  --modal-event-calendar: #e8f4fa;
+
+ --color-day:white;
+  
+}
+
+
+
+.calendario_classe {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  background-color: var(--body-color-calendar);
+}
+.botao_calendar {  
+  cursor: pointer;
+  box-shadow: 0px 0px 2px gray;
+  border: none;
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
+
+#header {
+  padding: 10px;
+  color: var(--header-color-calendar) ;
+  font-size: 18px;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: space-between;
+}
+#header button {
+  background-color:var(--header-button-calendar);
+}
+#container {
+  width: 190px;
+}
+#weekdays {
+  width: 100%;
+  display: flex;
+  color: var(--color-weekdays-calendar) ;
+  font-size: 10px; 
+}
+#weekdays div {
+  width: 50px;
+  padding: 1px;
+}
+#calendar {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.day {
+  width: 22px;
+  padding: 3px;
+  height: 22px;
+  cursor: pointer;
+  box-sizing: border-box;
+  background-color: var(--color-day-calendar);
+  margin: 2px 5px 0px 0px;
+  box-shadow: 0px 0px 3px var(--box-shadow-calendar);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 10%;
+  font-size: 12px;
+  text-align: center;
+}
+.day:hover {
+  background-color: var(--hover-calendar);
+}
+
+.day + #currentDay {
+  background-color:var(--current-day-calendar);
+}
+
+.day + #diasPassados {
+  background-color:#dbdbdb;
+}
+
+.event {
+  font-size: 10px;
+  padding: 3px;
+  background-color: var(--event-color-calendar);
+  color: white;
+  border-radius: 5px;
+  max-height: 55px;
+  overflow: hidden;
+}
+.padding {
+  cursor: default !important;
+  background-color: var(--body-color-calendar) !important;
+  box-shadow: none !important;
+}
+#newEventModal, #deleteEventModal {
+  display: none;
+  z-index: 20;
+  padding: 25px;
+  background-color: var(--modal-event-calendar);
+  box-shadow: 0px 0px 3px black;
+  border-radius: 5px;
+  width: 350px;
+  top: 100px;
+  left: calc(50% - 175px);
+  position: absolute;
+  font-family: sans-serif;
+}
+#eventTitleInput {
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  box-shadow: 0px 0px 3px gray;
+}
+#eventTitleInput.error {
+  border: 2px solid red;
+}
+#cancelButton, #deleteButton {
+  background-color: var(--header-color-calendar);
+}
+#saveButton, #closeButton {
+  background-color: var(--header-button-calendar);
+}
+#eventText {
+  font-size: 14px;
+}
+#modalBackDrop {
+  display: none;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  background-color: rgba(0,0,0,0.8);
+}
+
+.day + #diaOcupado {
+  background-color:#fa9191;
+}
+
+.day + #diaLivre {
+  background-color:#40db47;
+}
