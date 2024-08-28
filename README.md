@@ -32,7 +32,7 @@ O **SniperADV** foi desenvolvido para atender à demanda de advogados e associad
 
 ## Contato 📧
 
-Para mais informações sobre o projeto, oportunidades de investimento ou suporte, entre em contato com [seu e-mail/contato].
+Para mais informações sobre o projeto, oportunidades de investimento ou suporte, entre em contato com lucasfagundessouza@live.com / (62)99536-4596.
 
 ---
 
