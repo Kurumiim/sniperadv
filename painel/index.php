@@ -361,10 +361,10 @@ if(@count($res1) > 0){
 									<span class="side-menu__label" style="margin-left: 15px">Pessoas</span><i class="angle fe fe-chevron-right"></i></a>
 									<ul class="slide-menu">
 									
-									<li class="<?php echo @$clientes ?>"><a class="slide-item" href="clientes"> Clientes</a></li>
-									<li class="<?php echo @$usuarios ?>"><a class="slide-item" href="usuarios"> Usuários</a></li>
-									<li class="<?php echo @$funcionarios ?>"><a class="slide-item" href="funcionarios"> Profissionais</a></li>
-									<li class="<?php echo @$fornecedores ?>"><a class="slide-item" href="fornecedores"> Fornecedores</a></li>
+									<li class="<?php echo @$clientes ?>"><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=clientes"> Constituintes</a></li>
+									<li class="<?php echo @$usuarios ?>"><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=usuarios"> Usuários</a></li>
+									<li class="<?php echo @$funcionarios ?>"><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=funcionarios"> Profissionais</a></li>
+									<li class="<?php echo @$fornecedores ?>"><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=fornecedores"> Fornecedores</a></li>
 										
 									</ul>
 								</li>
@@ -377,21 +377,21 @@ if(@count($res1) > 0){
 									<span class="side-menu__label" style="margin-left: 15px">Cadastros</span><i class="angle fe fe-chevron-right"></i></a>
 									<ul class="slide-menu">
 									
-									<li class="<?php echo @$formas_pgto ?>"><a class="slide-item" href="formas_pgto"> Formas Pgto</a></li>
+									<li class="<?php echo @$formas_pgto ?>"><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=formas_pgto"> Formas Pgto</a></li>
 
-									<li class="<?php echo @$frequencias ?> "><a class="slide-item" href="frequencias"> Frequências</a></li>
+									<li class="<?php echo @$frequencias ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=frequencias"> Frequências</a></li>
 
-									<li class="<?php echo @$cargos ?> "><a class="slide-item" href="cargos"> Cargos</a></li>
+									<li class="<?php echo @$cargos ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=cargos"> Cargos</a></li>
 
-									<li class="<?php echo @$tipos_servicos ?> "><a class="slide-item" href="tipos_servicos"> Serviços Prestados</a></li>
+									<li class="<?php echo @$tipos_servicos ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=tipos_servicos"> Serviços Prestados</a></li>
 
-									<li class="<?php echo @$contratos ?> "><a class="slide-item" href="contratos"> Modelos de Contratos</a></li>
+									<li class="<?php echo @$contratos ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=contratos"> Modelos de Contratos</a></li>
 
 
 									<?php if($alterar_acessos == 'Sim'){ ?>
-									<li class="<?php echo @$grupo_acessos ?> "><a class="slide-item" href="grupo_acessos"> Grupos</a></li>
+									<li class="<?php echo @$grupo_acessos ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=grupo_acessos"> Grupos</a></li>
 
-									<li class="<?php echo @$acessos ?> "><a class="slide-item" href="acessos"> Acessos</a></li>
+									<li class="<?php echo @$acessos ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=acessos"> Acessos</a></li>
 									<?php } ?>
 										
 									</ul>
@@ -406,9 +406,9 @@ if(@count($res1) > 0){
 									<span class="side-menu__label" style="margin-left: 15px">Financeiro</span><i class="angle fe fe-chevron-right"></i></a>
 									<ul class="slide-menu">
 									
-									<li class="<?php echo @$receber ?> "><a class="slide-item" href="receber"> Receber</a></li>
+									<li class="<?php echo @$receber ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=receber"> Receber</a></li>
 
-									<li class="<?php echo @$pagar ?> "><a class="slide-item" href="pagar"> Despesas</a></li>
+									<li class="<?php echo @$pagar ?> "><a class="slide-item" href="https://sniperadv.com/painel/index.php?pagina=pagar"> Despesas</a></li>
 
 									<li class="<?php echo @$rel_financeiro ?> ocultar_mobile_app"><a class="slide-item" href="" data-bs-toggle="modal" data-bs-target="#modalRelFin"> Relatório Financeiro</a></li>
 
@@ -430,49 +430,49 @@ if(@count($res1) > 0){
 
 								
 									<li class="slide <?php echo @$caixas ?>">
-									<a class="side-menu__item" href="caixas">
+									<a class="side-menu__item" href="https://sniperadv.com/painel/index.php?pagina=caixas">
 										<i class="fa fa-briefcase text-white"></i>
 										<span class="side-menu__label" style="margin-left: 15px">Caixas  <?php echo $texto_caixa ?></span></a>
 								</li>
 
 
 										<li class="slide <?php echo @$tarefas ?>">
-									<a class="side-menu__item" href="tarefas">
+									<a class="side-menu__item" href="https://sniperadv.com/painel/index.php?pagina=tarefas">
 										<i class="fa fa-calendar text-white"></i>
 										<span class="side-menu__label" style="margin-left: 15px">Tarefas / Agenda</span></a>
 								</li>
 
 
 									<li class="slide <?php echo @$abertura_contratos ?>">
-									<a class="side-menu__item" href="abertura_contratos">
+									<a class="side-menu__item" href="https://sniperadv.com/painel/index.php?pagina=abertura_contratos">
 										<i class="fa fa-file-text text-white"></i>
 										<span class="side-menu__label" style="margin-left: 15px">Abertura de Contratos</span></a>
 								</li>
 
 
 								<li class="slide <?php echo @$rel_contratos ?>">
-									<a class="side-menu__item" href="rel_contratos">
+									<a class="side-menu__item" href="https://sniperadv.com/painel/index.php?pagina=rel_contratos">
 										<i class="fa fa-file-text text-white"></i>
 										<span class="side-menu__label" style="margin-left: 15px">Gerar Contrato</span></a>
 								</li>
 
 
 								<li class="slide <?php echo @$processos ?>">
-									<a class="side-menu__item" href="processos">
+									<a class="side-menu__item" href="https://sniperadv.com/painel/index.php?pagina=processos">
 										<i class="fa fa-anchor text-white"></i>
 										<span class="side-menu__label" style="margin-left: 15px">Processos</span></a>
 								</li>
 
 
 									<li class="slide <?php echo @$processos_andamento ?>">
-									<a class="side-menu__item" href="processos_andamento">
+									<a class="side-menu__item" href="https://sniperadv.com/painel/index.php?pagina=processos_andamento">
 										<i class="fa fa-folder-open-o text-white"></i>
 										<span class="side-menu__label" style="margin-left: 15px">Processos Andamento</span></a>
 								</li>
 
 
 								<li class="slide <?php echo @$audiencias ?>">
-									<a class="side-menu__item" href="audiencias">
+									<a class="side-menu__item" href="https://sniperadv.com/painel/index.php?pagina=audiencias">
 										<i class="fa fa-calendar-o text-white"></i>
 										<span class="side-menu__label" style="margin-left: 15px">Audiências</span></a>
 								</li>
@@ -531,7 +531,7 @@ if($ocultar_mobile == 'Sim'){ ?>
 			<!-- FOOTER -->
 			<div class="main-footer">
 				<div class="container-fluid pt-0 ht-100p">
-					 Copyright © <?php echo date('Y'); ?> <a href="javascript:void(0);" class="text-primary">PORTAL HUGO CURSOS</a>. Todos os direitos reservados
+					 Copyright © <?php echo date('Y'); ?> <a href="javascript:void(0);" class="text-primary">LFS Software</a>. Todos os direitos reservados
 				</div>
 			</div>			<!-- FOOTER END -->
 
